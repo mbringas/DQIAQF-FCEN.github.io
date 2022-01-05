@@ -1,5 +1,5 @@
 layout: page
 title: "About Us"
-permalink: /about/contact/
+permalink: /about/
 
 Somos un equipo de DQI
