@@ -4,5 +4,5 @@ title: "About Us"
 permalink: /about/
 ---
 
-Somos un equipo de DQI
+##Somos un equipo de DQI
 
