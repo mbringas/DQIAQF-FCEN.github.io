@@ -1,27 +1,13 @@
-## Welcome to GitHub Pages
+## Libros del DQIAyQF
 
-You can use the [editor on GitHub](https://github.com/DQIAQF-FCEN/DQIAQF-FCEN.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+En este sitio encontrarán [Jupyter books](https://jupyterbook.org/intro.html) con visualizaciones y simulaciones de las materias obligatorias dictadas por el DQIAyQF.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{% include buttons.html %}
+</body>
+</html>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` textCancel changes
 
 [Link](url) and ![Image](src)
 ```
