@@ -559,15 +559,15 @@ ul.email li a i {
 }
 
 .creative h1 {
-    font-size: 67px;
+    font-size: 60px;
     line-height: 70px;
-    color: #fff;
+    color: black;
     text-transform: uppercase;
     font-weight: bold;
 }
 
 .creative p {
-    color: #fff;
+    color: black;
     padding:40px 0 45px 0;
     line-height: 30px;
 }
